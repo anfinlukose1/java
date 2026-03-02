@@ -56,7 +56,7 @@ public class Main {
         if (p3.price < lowest.price)
             lowest = p3;
 
-        System.out.println("\nProduct with Lowest Price:");
+        System.out.println("\n Product with Lowest Price:");
         lowest.display();
 
         sc.close();
